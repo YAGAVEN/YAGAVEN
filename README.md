@@ -3,6 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-yagaven.me-blue?style=flat-square&logo=google-chrome)](https://yagaven.me)
 [![Email](https://img.shields.io/badge/Email-yagaven1111%40gmail.com-red?style=flat-square&logo=gmail)](mailto:yagaven1111@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2063796%2019690-green?style=flat-square&logo=whatsapp)](tel:+916379619690)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YAGAVEN-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/YAGAVEN/)
 
 ## 👨‍💻 About Me
 
@@ -34,10 +35,10 @@ I am a **3rd Year AI & Data Science Student** at **RMK College of Engineering an
 ### 🏥 Jaundice Prediction Webpage (2025)
 A sophisticated web application that predicts jaundice using CNN image classification technology. Built with modern web frameworks and deep learning models.
 
-### 👤 Age Prediction Webpage (2026)
+### 👤 Age Prediction Webpage (2025)
 A multimodal web application that predicts age using image, text, and audio data. Built with modern web frameworks and deep learning models, trained with TensorFlow and Keras.
 
-### 🎮 Pressure & Treasure (2025)
+### 🎮 Pressure & Treasure (2026)
 Developed a full-stack web-based treasure hunt game for coordinating online events, featuring a Game of Thrones theme with optimized UI/UX for engaging gameplay. Released as Open Source.
 
 ## 🛠️ Tech Stack
@@ -93,6 +94,12 @@ Developed a full-stack web-based treasure hunt game for coordinating online even
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YAGAVEN&theme=radical)](https://git.io/streak-stats)
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YAGAVEN?theme=dark&font=Noto%20Sans&ext=heatmap)
+
+[![LeetCode user YAGAVEN](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYAGAVEN&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/YAGAVEN/)
 
 ## 📈 Profile Views
 
