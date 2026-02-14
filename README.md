@@ -89,11 +89,6 @@ Developed a full-stack web-based treasure hunt game for coordinating online even
 - **Tamil** - Fluent
 - **German** - Basics
 
-## 📊 GitHub Stats
-
-![Yagaven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YAGAVEN&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YAGAVEN&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
